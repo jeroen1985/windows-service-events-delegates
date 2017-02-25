@@ -1,0 +1,12 @@
+[	
+  {
+		  "event": "WriteEventLog",
+  		"origin": "local",
+  		"owner" : "John Springer"
+	},
+	{
+	    "event": "StopListening",
+  		"origin": "local",
+  		"owner" : "Vincent Winfrey"
+	}
+]
